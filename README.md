@@ -1,2 +1,1 @@
-# Kapstone
-Kapstone project 
+# Group Project
